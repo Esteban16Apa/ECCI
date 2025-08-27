@@ -1,3 +1,3 @@
-<h1>BIENVENIDOS<h1>git status
+<h1>BIENVENIDOS<h1>git 
 
 Esteban Aparicio
